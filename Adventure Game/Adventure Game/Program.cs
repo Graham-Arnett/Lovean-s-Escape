@@ -33,6 +33,7 @@
                     Console.WriteLine("You hear a grouchy voice grumbling to itself. The guard opens the door and is clearly angry.");
                     Console.WriteLine("\"Oi what's this noise all about? What makes you think you can cause a racket criminal scum?\"");
                     Console.WriteLine("Would you like to explain yourself, or try and fight him?");
+                    Console.WriteLine("> ");
                     string explainfight = Console.ReadLine(); //explain or fight
                     if (explainfight == "explain") //choosing to explain yourself
                     {
@@ -68,6 +69,24 @@
                 Console.WriteLine("You swear you see something under the hay pile, and curiosoity overtaking you, you sweep the hay to the side to investigae. Underneath you spot a large iron grate. Past the grate is a tunnel straight down.");
                 Console.WriteLine("You cannot tell how far down exactly, the holy is entirely pitch black. You could try and find some rope to tie to the grate, or you could try jumping straight down.");
                 Console.WriteLine("Would you like to search for rope, or try your chances with jumping down?");
+                Console.WriteLine("> ");
+                string ropejump = Console.ReadLine();
+                
+                if (ropejump == "rope")
+                {
+                    Console.WriteLine("You search around to no avail until it hits you. The hay itself was somewhat sticky from the damp atmosphere, as well as being quite long.");
+                    Console.WriteLine("The hay would otherwise be useless to you, but you think that due to these attributes, maybe if you spent enough time weaving and tying them together, you could make a simple rope.");
+                    Console.WriteLine("The task isn't easy, it takes you two agonizing hours, your fingers are blistered by the end, but you have something that bares at least a passing resemblance to a rope.");
+                    Console.WriteLine("You have little time to admire your efforts however, as you hear one of the patrolmen walking towards your cell. With the cobblestone pathway and their chainmail boots, you'd have no trouble hearing them.");
+                    Console.WriteLine("You start to hurriedly tie the rope to the grate as the footsteps draw near. You hear the door being unlocked and as the door is finally opened you narrowly manage to finish the knot and rapidly descend down the rope.");
+                    Console.WriteLine("You get more than halfway down the rope and, due to the increased stress of your quick decline, the rope snaps and you fall down the rest of the dark hole.");
+                    Console.WriteLine("Ending 3: You were able to evade the guard in time, but was there anything to break your fall? Find out in the next installment!");
+                }
+                else if (ropejump == "jump")
+                {
+                    Console.WriteLine("You decide to try your luck and jump down the hole. You fall for a surprisingly long time, more than long enough to question your decision.");
+                    Console.WriteLine("The height was too great and you died on impact from your fall. Please restart and try another path.");
+                }
             }
         }
     }
