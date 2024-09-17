@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\fun\\Lovean's Escape\\Adventure Game\\Adventure Game\\Adventure Game.csproj",
+      "projectUniqueName": "C:\\repos\\fun\\Fixed Lovean's Escape\\Lovean-s-Escape\\Adventure Game\\Adventure Game\\Adventure Game.csproj",
       "projectName": "Adventure Game",
-      "projectPath": "C:\\repos\\fun\\Lovean's Escape\\Adventure Game\\Adventure Game\\Adventure Game.csproj",
+      "projectPath": "C:\\repos\\fun\\Fixed Lovean's Escape\\Lovean-s-Escape\\Adventure Game\\Adventure Game\\Adventure Game.csproj",
       "packagesPath": "C:\\Users\\Graha\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\fun\\Lovean's Escape\\Adventure Game\\Adventure Game\\obj\\",
+      "outputPath": "C:\\repos\\fun\\Fixed Lovean's Escape\\Lovean-s-Escape\\Adventure Game\\Adventure Game\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Graha\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\repos\\fun\\Lovean\u0027s Escape\\Adventure Game\\",
+  "WorkspaceRootPath": "C:\\repos\\fun\\Fixed Lovean\u0027s Escape\\Lovean-s-Escape\\Adventure Game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E7183DA8-C6F7-40BA-B998-DBF5DC5F778B}|Adventure Game\\Adventure Game.csproj|c:\\repos\\fun\\lovean\u0027s escape\\adventure game\\adventure game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E7183DA8-C6F7-40BA-B998-DBF5DC5F778B}|Adventure Game\\Adventure Game.csproj|c:\\repos\\fun\\fixed lovean\u0027s escape\\lovean-s-escape\\adventure game\\adventure game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7183DA8-C6F7-40BA-B998-DBF5DC5F778B}|Adventure Game\\Adventure Game.csproj|solutionrelative:adventure game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\repos\\fun\\Lovean\u0027s Escape\\Adventure Game\\Adventure Game\\Program.cs",
+              "DocumentMoniker": "C:\\repos\\fun\\Fixed Lovean\u0027s Escape\\Lovean-s-Escape\\Adventure Game\\Adventure Game\\Program.cs",
               "RelativeDocumentMoniker": "Adventure Game\\Program.cs",
-              "ToolTip": "C:\\repos\\fun\\Lovean\u0027s Escape\\Adventure Game\\Adventure Game\\Program.cs",
+              "ToolTip": "C:\\repos\\fun\\Fixed Lovean\u0027s Escape\\Lovean-s-Escape\\Adventure Game\\Adventure Game\\Program.cs",
               "RelativeToolTip": "Adventure Game\\Program.cs",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAQwGsAAACpAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAQwH4AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T00:25:27.884Z",
               "EditorCaption": ""

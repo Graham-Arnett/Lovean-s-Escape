@@ -27,3 +27,18 @@ C:\repos\fun\Lovean's Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\refi
 C:\repos\fun\Lovean's Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.pdb
 C:\repos\fun\Lovean's Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.genruntimeconfig.cache
 C:\repos\fun\Lovean's Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\ref\Adventure Game.dll
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\bin\Debug\net8.0\Adventure Game.exe
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\bin\Debug\net8.0\Adventure Game.deps.json
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\bin\Debug\net8.0\Adventure Game.runtimeconfig.json
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\bin\Debug\net8.0\Adventure Game.dll
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\bin\Debug\net8.0\Adventure Game.pdb
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.AssemblyInfoInputs.cache
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.AssemblyInfo.cs
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.csproj.CoreCompileInputs.cache
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.sourcelink.json
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.dll
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\refint\Adventure Game.dll
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.pdb
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\Adventure Game.genruntimeconfig.cache
+C:\repos\fun\Fixed Lovean's Escape\Lovean-s-Escape\Adventure Game\Adventure Game\obj\Debug\net8.0\ref\Adventure Game.dll
